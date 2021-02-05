@@ -1,0 +1,26 @@
+html{
+     background-color: #f5f5dd;
+     align-items: center;
+     justify-content: center;
+     display: flex;
+}
+
+div{
+    background-color: black;
+    width: 200px;
+    height:200px;
+    
+}
+
+.d2{
+    background: rgba(0,0,0,0.7);
+    
+}
+
+.d3{
+    background:rgba(0,0,0,0.5);
+}
+
+.d4{
+    background: rgba(0,0,0,0.2);
+}
